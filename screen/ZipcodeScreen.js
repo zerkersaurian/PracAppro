@@ -2,7 +2,7 @@ import React from 'react';
 import {FlatList, StyleSheet, Text, View , ImageBackground} from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 import {TouchableHighlight} from 'react-native-gesture-handler';
-
+//
 const availableZipItems = [
     { place: 'Hatyai', code: '90110' },
     { place: 'Trang', code: '92000' },
